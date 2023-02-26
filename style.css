@@ -1,1 +1,15 @@
-body{}
+body{
+    background-color: azure;
+    font-family: ubuntu;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.cim{
+    text-align: center;
+}
+p{
+    font-style: italic;
+    font-weight: bold;
+}
